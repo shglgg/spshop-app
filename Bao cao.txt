@@ -9,3 +9,4 @@ Fast API:
 - Cài đặt và cấu hình cơ bản
 - Xử lý HTTP
 - Tìm hiểu về automatic API docs 
+Trên đây là một demo được dựng sẵn bằng Django + ShopifyAPI em dùng để nghiên cứu trong quá trình tìm hiểu về Django.
