@@ -1,0 +1,11 @@
+Trong thời gian qua nghiên cứu về Django API và Fast API em đã tìm hiểu được những nội dung:
+Django:
+- Cài đặt và cấu hình cơ bản
+- Tạo, quản lý csdl
+- Tạo templates
+- Xác thực, phân quyền user
+- Quản lý admin
+Fast API:
+- Cài đặt và cấu hình cơ bản
+- Xử lý HTTP
+- Tìm hiểu về automatic API docs 
